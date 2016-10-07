@@ -1019,7 +1019,6 @@
 				}
 
 /* Wrapper */
-
 	#wrapper {
 		background: #fff;
 		padding-right: 20em;
@@ -1049,7 +1048,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 0em;
 		width: 100%;
 	}
 
