@@ -434,7 +434,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;;
+			font-family: FontAwesome,sans-serif;;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -549,7 +549,7 @@
 				ul.feature-icons li:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;;
+					font-family: FontAwesome,sans-serif;;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
