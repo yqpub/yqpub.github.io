@@ -31,7 +31,7 @@
 				sidePanel: {
 					breakpoints: 'medium',
 					hidden: true,
-					width: { small: 200, medium: '15em' },
+					width: { small: 275, medium: '20em' },
 					height: '100%',
 					animation: 'pushX',
 					position: 'top-right',
