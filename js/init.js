@@ -22,7 +22,7 @@
 					mode: 'transform'
 				},
 				titleBar: {
-					breakpoints: 'medium',
+					breakpoints: 'small',
 					width: '100%',
 					height: 44,
 					position: 'top-left',
@@ -30,7 +30,7 @@
 					html: '<span class="toggle" data-action="toggleLayer" data-args="sidePanel"></span><span class="title" data-action="copyText" data-args="logo"></span>'
 				},
 				sidePanel: {
-					breakpoints: 'medium',
+					breakpoints: 'small',
 					hidden: true,
 					width: { small: 275, medium: '20em' },
 					height: '100%',
